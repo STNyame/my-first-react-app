@@ -5,7 +5,10 @@ import title from "./components/Title.js";
 function App() {
   return (
     <div className="App">
-      <Title />
+      <main>
+        <Title />
+      </main>
+
       <p>Welcome codaisseur</p>
     </div>
   );
